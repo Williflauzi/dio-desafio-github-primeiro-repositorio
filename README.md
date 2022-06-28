@@ -4,3 +4,4 @@ Repositório criado para o Desafio de projeto.
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+Atulização do redme 28-06
