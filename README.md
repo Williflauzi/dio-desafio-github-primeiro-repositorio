@@ -20,7 +20,7 @@ Módulo 0 - Prepare-se para a Jornada
 
 
 Curso
-Conheça as Oportunidades da DIO
+- [ X ] Conheça as Oportunidades da DIO
 
 
 
