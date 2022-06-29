@@ -9,7 +9,7 @@ Foi utilizada a linguagem **Markdown** característica do README.
 ***
 - [X] **Conheça as Oportunidades da DIO**
 *Curso-1 concluido em 09/06/2022*
-Imagem1.jpg
+
 ***
 - [X] **Seja Protagonista Neste Bootcamp**  
 *Curso-2 concluido em 09/06/2022* 
