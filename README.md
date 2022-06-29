@@ -26,7 +26,7 @@ Também foram adicionados a este repositorio os arquivos referentes aos certific
 - [X] **Introdução ao Git e ao GitHub**    
 *Curso-5 concluido em 09/03/2022* 
 ***
-- [ ] **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso**    
+- [X] **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso**    
 *Desafio de projeto-1 concluido em 29/06/2022* 
 ***
 ##	Módulo II - HTML/CSS3/JS	
