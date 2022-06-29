@@ -8,8 +8,8 @@ Foi utilizada a linguagem **Markdown** característica do README.
 ## Módulo I - Conteúdo de Abertura
 ***
 - [X] **Conheça as Oportunidades da DIO**
-  *Curso-1 concluido em 09/06/2022*
-
+*Curso-1 concluido em 09/06/2022*
+Imagem1.jpg
 ***
 - [X] **Seja Protagonista Neste Bootcamp**  
 *Curso-2 concluido em 09/06/2022* 
@@ -31,7 +31,8 @@ Foi utilizada a linguagem **Markdown** característica do README.
 *Curso-5 concluido em 09/03/2022* 
 
 ***
-- [ ] **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso**  *Desafio de projeto-1	Não Concluido* 
+- [ ] **Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso**
+*Desafio de projeto-1	Não Concluido* 
 
 ***
 
