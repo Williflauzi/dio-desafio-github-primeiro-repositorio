@@ -7,12 +7,12 @@ Foi utilizada a linguagem **Markdown** característica do README.
 ***
 ## Módulo I - Conteúdo de Abertura
 ***
-- [X] **Conheça as Oportunidades da DIO**
+- [X] **Conheça as Oportunidades da DIO**  
 *Curso-1 concluido em 09/06/2022*
 
 ***
 - [X] **Seja Protagonista Neste Bootcamp**  
-*Curso-2 concluido em 09/06/2022* 
+*Curso-2 concluido em 09/06/2022*
 
 ***			
 - [X] **Boas-vindas ao Santander Bootcamp Fullstack Developer**  
