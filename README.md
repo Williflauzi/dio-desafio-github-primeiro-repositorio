@@ -1,10 +1,10 @@
 # Desafio de projeto sobre Git/GitHub da DIO
 Repositório criado para o Desafio de projeto 1.
-
+***
 Este projeto tem como objetivo demonstrar os cursos, desafios e projetos constantes do **Santander Bootcamp Fullstack Developer** e acompanhar a evolução de sua realização pelo autor.
-Os cursos e desafios quando concluidos serão atualizados neste quadro. 
-Foi utilizada a linguagem **Markdown** característica do README. 
-Em anexo seguem os arquivos dos certificados de conclusão de todas as etapas.
+Os cursos e desafios do Bootcamp quando concluidos serão atualizados neste quadro.
+Foi utilizada a linguagem **Markdown** característica no README.  
+Também foram adicionados a este repositorio os arquivos referentes aos certificados de conclusão de todas as etapas.
 ***
 ## Módulo I - Conteúdo de Abertura
 ***
